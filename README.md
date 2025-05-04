@@ -1,1 +1,1 @@
-# WDQ-1-Integrated_model_for_BaPeq
+# Integrated_model_for_BaPeq
